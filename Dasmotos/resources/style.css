@@ -1,0 +1,39 @@
+html {
+  display: block;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+}
+h3 {
+  font-family: Helvetica;
+}
+p {
+  font-family: helvetica;
+}
+.header {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  /*I couldn't get a link to the file to render the image in the header, using the online version worked */
+}
+.brushes {
+  background-color: mediumspringgreen;
+}
+.frames {
+  background-color: lightcoral;
+}
+.paint {
+  background-color: skyblue;
+}
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
